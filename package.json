@@ -4,23 +4,26 @@
   "proxy": "http://localhost:5000",
   "private": true,
   "dependencies": {
-    "firebase": "6.0.2",
-    "node-sass": "4.12.0",
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-redux": "7.0.3",
-    "react-router-dom": "5.0.0",
-    "react-stripe-checkout": "2.6.3",
-    "redux": "4.0.1",
-    "redux-logger": "3.0.6",
-    "redux-persist": "5.10.0",
-    "reselect": "4.0.0"
+    "apollo-boost": "latest",
+    "firebase": "latest",
+    "graphql": "latest",
+    "node-sass": "latest",
+    "react": "latest",
+    "react-apollo": "latest",
+    "react-dom": "latest",
+    "react-redux": "latest",
+    "react-router-dom": "latest",
+    "react-stripe-checkout": "latest",
+    "redux": "latest",
+    "redux-logger": "latest",
+    "redux-persist": "latest",
+    "reselect": "latest"
   },
   "devDependencies": {
-    "react-scripts": "3.0.0"
+    "react-scripts": "^3.4.0"
   },
   "resolutions": {
-    "babel-jest": "24.7.1"
+    "babel-jest": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
